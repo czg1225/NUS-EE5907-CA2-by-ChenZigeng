@@ -1,7 +1,4 @@
 # EE5907 CA2
-Name: Chen Zigeng
-
-Student ID: A0260093L
 
 ## Environmet Requirements
 python >= 3.6
